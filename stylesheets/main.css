@@ -1,8 +1,25 @@
-h1 {
-  font-size: 3em;
+body {
+  background: #fff;
+}
+
+h1 { font-size: 36px; }
+h2 { font-size: 30px;}
+h3 { font-size: 24px;}
+h4 { font-size: 24px;}
+h5 { font-size: 20px;}
+h6 { font-size: 18px;}
+
+
+.main {
+  float: left;
+  margin-right: 1em;
+  width: 45%;
   }
-  
-h2 {
-  font-size: 1.8em;
+
+.merriweather {
+  font-family: 'Merriweather', serif;
   }
-  
+
+.lato {
+  font-family: 'Lato', sans-serif;
+  }
